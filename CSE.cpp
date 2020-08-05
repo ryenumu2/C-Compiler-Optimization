@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * *\
-|             CSE and Optimization      |
+|          CSE and Optimization         |
 \* * * * * * * * * * * * * * * * * * * */
 
 /*

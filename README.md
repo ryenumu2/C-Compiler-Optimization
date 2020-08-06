@@ -11,6 +11,11 @@ Some features that differentiate C-- from C and C++ include:
 - int (i64) is only supported
 - global variable and function definitions
 
+**Results**
+
+A sample LLVM IR code generation for a piece of C-- code using my script would look as follows:
+
+![Alt text](/C--/images/readmeimg2.png?raw=true "LLVM_IR_code")
 
 
 
@@ -26,6 +31,6 @@ Using LLVM, I develop algorithms for Common Subexpression Elimination, Constant 
 
 Optimizations are recorded by incrementing output counters *CSE_Dead*, *CSE_Basic*, and *CSE_Simplify*. These variables displayed the number of dead code eliminations, constant foldings, and subexpression eliminations respectively after running these optimization files over any given piece of code. An example output on terminal after optimizations are done is as shown:
 
-![Alt text](/CSE/images/readmeimg1.png?raw=true "Optional Title")
+![Alt text](/CSE/images/readmeimg1.png?raw=true "terminal_optimizations")
 
 Where different optimizations done to the code are recorded by each output counter.

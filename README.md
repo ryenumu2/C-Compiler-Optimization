@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Using LLVM, I developed algorithms for Common Subexpression Elimination, Constant Folding, and Dead Code elimination.
+Using LLVM, I developed an algorithm for Common Subexpression Elimination, Constant Folding, and Dead Code elimination.
 
 **Results**
 

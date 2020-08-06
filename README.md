@@ -37,6 +37,3 @@ A piece of my cmm.cpp file that would be called for **while (j < 10)** *(line nu
 
 ![Alt text](/C--/images/readmeimg8.png?raw=true "LLVM_IR_code")
 
-![Alt text](/C--/images/readmeimg6.png?raw=true "LLVM_IR_code")
-
-![Alt text](/C--/images/readmeimg7.png?raw=true "LLVM_IR_code")

@@ -33,7 +33,7 @@ A sample piece of C-- code that my script would create LLVM bitcode for:
 
 Pieces of my ***cmm.cpp*** file that would be called for **while (j < 10)** *(line numbers included for convenience):*
 
-![Alt text](/C--/images/readmeimg4.png?raw=true "LLVM_IR_code")
-
 ![Alt text](/C--/images/readmeimg10.png?raw=true "LLVM_IR_code")
+
+![Alt text](/C--/images/readmeimg9.png?raw=true "LLVM_IR_code")
 
